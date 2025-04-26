@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 >👋 Hi, I'm Anurag Waghmare! </h1>
+<h1  align="center">👋 Hi, I'm Anurag Waghmare! </h1>
   
 
 <h3>Skills  :</h3>
