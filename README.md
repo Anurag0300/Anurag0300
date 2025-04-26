@@ -4,6 +4,7 @@
 <h1 >👋 Hi, I'm Anurag Waghmare! </h1>
 
 <h3>Skills  :<h3>
+  <ul>
 <ul style="list-style-type:disc;">
   <li>Programming Languages : OOPS, C#, Typescript</li>
   <li>Frameworks & Technologies : DOT NET CORE 8, DOT NET
@@ -19,12 +20,14 @@ Studio 2019, Visual Studio Code
   <li>Other Tools : Fiddler, Postman, SwaggerUI</li>
 </ul>  
 <br>
+  
 <h3>Connect me with  :</h3>
 <ul>
 <li>Mobile no  -  8482830300</li>
 <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
-  <li>Instagram  :  <a>href="https://www.instagram.com/anurag.waghmare_ii/?next=%2F&hl=en"</a> anurag.waghmare_ii</li>
-  </ul>
+</ul>
+</ul>
+
 <hr>
 <h2>🚀 Thank You for Visiting!</h2>
  
