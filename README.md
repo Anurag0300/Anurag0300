@@ -1,12 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-     <style>
-h1 {text-align: center;}
-h2 {text-align: center;}
-</style>
-    
-  </head>
 <body>
 <h1 >👋 Hi, I'm Anurag Waghmare</h1>
 
@@ -26,6 +19,7 @@ Studio 2019, Visual Studio Code
   <li>Other Tools : Fiddler, Postman, SwaggerUI</li>
  
 </ul>  
+<hr>
 <h2>🚀 Thank You for Visiting!</h2>
  
 </body>
