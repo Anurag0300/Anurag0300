@@ -3,8 +3,8 @@
 <body>
 <h1 >👋 Hi, I'm Anurag Waghmare! </h1>
   
-<ul style="list-style-type:disc; >
-<li>Skills  :</li>
+
+<h3>Skills  :</h3>
   
 <ul style="list-style-type:disc;">
   <li>Programming Languages : OOPS, C#, Typescript</li>
@@ -22,12 +22,12 @@ Studio 2019, Visual Studio Code
 </ul>  
 <br>
   
-<li>Connect me with  :</li>
+<h3>Connect me with  :</h3>
 <ul>
 <li>Mobile no  -  8482830300</li>
 <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
 </ul>
-</ul>
+
 
 <hr>
 <h2>🚀 Thank You for Visiting!</h2>
