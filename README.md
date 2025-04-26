@@ -11,10 +11,10 @@
 FRAMEWORK 4.8, WEB API CORE, MVC CORE, ENTITY
 FRAMEWORK CORE, ASP.NET MVC 5, ASP.NET WEB API 2, LINQ,
 Entity Framework, ADO.NET, HTML, CSS, Bootstrap, Angular</li>
-  <li>Database Management : SQL Server 2019
-Version Control : Git, GitHub</li>
-  <li>Tools & IDEs : Visual studio 2017/2022, SQL Server Management
-Studio 2017/2019, Visual Studio Code
+  <li>Database Management : SQL Server 2019</li>
+  <li>Version Control : Git, GitHub</li>
+  <li>Tools & IDEs : Visual studio 2022, SQL Server Management
+Studio 2019, Visual Studio Code
 </li>
   <li>Standard Guidelines : SOLID Principles, Design Patterns</li>
   <li>Other Tools : Fiddler, Postman, SwaggerUI</li>
