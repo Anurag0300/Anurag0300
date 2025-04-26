@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 >👋 Hi, I'm Anurag Waghmare</h1>
+<h1 >👋 Hi, I'm Anurag Waghmare! </h1>
 
 <h3>Skills<h3>
 <ul style="list-style-type:disc;">
@@ -17,8 +17,12 @@ Studio 2019, Visual Studio Code
 </li>
   <li>Standard Guidelines : SOLID Principles, Design Patterns</li>
   <li>Other Tools : Fiddler, Postman, SwaggerUI</li>
- 
 </ul>  
+
+  <ul>Connect me with :</ul>
+  <li>Mobile no  -  8482830300</li>
+  <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
+  
 <hr>
 <h2>🚀 Thank You for Visiting!</h2>
  
