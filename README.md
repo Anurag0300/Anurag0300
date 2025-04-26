@@ -7,7 +7,7 @@
 <h3>Skills  :</h3>
   
 <ul style="list-style-type:disc;">
-  <li>Programming Languages : OOPS, C#, Typescript</li>
+  <li>Programming Languages : C, C++, C#, SQL, Typescript</li>
   <li>Frameworks & Technologies : DOT NET CORE 8, DOT NET
 FRAMEWORK 4.8, WEB API CORE, MVC CORE, ENTITY
 FRAMEWORK CORE, ASP.NET MVC 5, ASP.NET WEB API 2, LINQ,
