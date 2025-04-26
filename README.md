@@ -2,9 +2,10 @@
 <html>
 <body>
 <h1 >👋 Hi, I'm Anurag Waghmare! </h1>
-
-<h3>Skills  :<h3>
-  <ul>
+  
+<ul style="list-style-type:disc; >
+<li><h3>Skills  :</h3><li>
+  
 <ul style="list-style-type:disc;">
   <li>Programming Languages : OOPS, C#, Typescript</li>
   <li>Frameworks & Technologies : DOT NET CORE 8, DOT NET
@@ -21,7 +22,7 @@ Studio 2019, Visual Studio Code
 </ul>  
 <br>
   
-<h3>Connect me with  :</h3>
+<li> <h3>Connect me with  :</h3></li>
 <ul>
 <li>Mobile no  -  8482830300</li>
 <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
