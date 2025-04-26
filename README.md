@@ -2,8 +2,7 @@
 <html>
 <body>
 <h1>👋 Hi, I'm Anurag Waghmare</h1>
-<br>
-  
+
 <h3>Skills<h3>
 <ul style="list-style-type:disc;">
   <li>Programming Languages : OOPS, C#, Typescript</li>
