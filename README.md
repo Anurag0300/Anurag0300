@@ -4,7 +4,7 @@
 <h1 >👋 Hi, I'm Anurag Waghmare! </h1>
   
 <ul style="list-style-type:disc; >
-<li><h3>Skills  :</h3><li>
+<li>Skills  :</li>
   
 <ul style="list-style-type:disc;">
   <li>Programming Languages : OOPS, C#, Typescript</li>
@@ -22,7 +22,7 @@ Studio 2019, Visual Studio Code
 </ul>  
 <br>
   
-<li> <h3>Connect me with  :</h3></li>
+<li>Connect me with  :</li>
 <ul>
 <li>Mobile no  -  8482830300</li>
 <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
