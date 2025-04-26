@@ -25,7 +25,7 @@ Studio 2019, Visual Studio Code
 <ul>
 <li>Mobile no  -  8482830300</li>
 <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
-<li>Instagram  - <a href="(https://www.instagram.com/anurag.waghmare_ii/)" ></a>Instagram</li>
+<li>Instagram  - anurag.waghmare_ii</li>
 </ul>
 
 <hr>
