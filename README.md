@@ -1,4 +1,9 @@
-👋 Hi, I'm Anurag
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>👋 Hi, I'm Anurag</h1>
+<br>
 I’m currently learning :
   • ASP.NET MVC CORE 
   • ASP.NET MVC 
@@ -13,3 +18,7 @@ I’m currently learning :
   • JavaScript 
   • CSS 
   • HTML
+</body>
+</html>
+
+
