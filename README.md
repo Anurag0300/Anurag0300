@@ -21,7 +21,7 @@ Studio 2019, Visual Studio Code
   <li>Other Tools : Fiddler, Postman, SwaggerUI</li>
 </ul>  
   
-<h3>Connect me with  :</h3>
+<h3>Connect with me  :</h3>
 <ul>
 <li>Mobile no  -  8482830300</li>
 <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
