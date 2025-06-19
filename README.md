@@ -25,7 +25,6 @@ Studio 2019, Visual Studio Code
 <ul>
 <li>Mobile no  -  +91 8482830300</li>
 <li>Gmail  -  anuragwaghmare.aw@gmail.com</li>
-<li>Instagram  - anurag.waghmare_ii</li>
 </ul>
 
 <hr>
